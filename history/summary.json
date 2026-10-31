@@ -4,12 +4,12 @@
     "url": "http://8.138.149.5:3081",
     "icon": "https://icons.duckduckgo.com/ip3/8.138.149.5.ico",
     "slug": "我的服务器",
-    "status": "up",
-    "uptime": "94.83%",
+    "status": "down",
+    "uptime": "95.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "92.14%",
-    "uptimeMonth": "94.83%",
-    "uptimeYear": "94.83%",
+    "uptimeMonth": "95.12%",
+    "uptimeYear": "95.12%",
     "time": 442,
     "timeDay": 546,
     "timeWeek": 478,
@@ -18,7 +18,8 @@
     "dailyMinutesDown": {
       "2026-10-17": 266,
       "2026-10-26": 733,
-      "2026-10-25": 59
+      "2026-10-25": 59,
+      "2026-10-31": 0
     }
   }
 ]
