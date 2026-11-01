@@ -5,21 +5,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/8.138.149.5.ico",
     "slug": "我的服务器",
     "status": "down",
-    "uptime": "94.24%",
-    "uptimeDay": "85.85%",
-    "uptimeWeek": "90.11%",
-    "uptimeMonth": "94.24%",
-    "uptimeYear": "94.24%",
+    "uptime": "88.35%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "75.63%",
+    "uptimeMonth": "88.35%",
+    "uptimeYear": "88.35%",
     "time": 442,
     "timeDay": 0,
-    "timeWeek": 493,
+    "timeWeek": 496,
     "timeMonth": 442,
     "timeYear": 442,
     "dailyMinutesDown": {
       "2026-10-17": 266,
       "2026-10-26": 733,
       "2026-10-25": 59,
-      "2026-10-31": 204
+      "2026-11-01": 283,
+      "2026-10-31": 1380
     }
   }
 ]
